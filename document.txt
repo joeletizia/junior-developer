@@ -10,8 +10,10 @@ Before we talk about how to succeed in your position as a junior developer, we f
 
 I have iterviewed all over the place. Some companies have ridiculous puzzles about finding a close approximation of how many grains of sand are on the Earth (you probably don't want to work here) while others will sit you down next to them and work on a project out of their backlog. Regardless of how the interview is done, the one constant through all of them will most likely necessitate fundamental Computer Scienece knowledge. Things like basic data structures and algorithms and object oriented design are essential in most interviews. 
 
-For a junior position, places outside of Google and Facebook aren't going to probe you for data structures that you probably didn't learn in school like advanced graphs, but you'll certainly want to be able to know where a hash is more advantageous over a linked list or an array. You will certainly want to know the difference between a standard tree and a priority queue. 
+For a junior position, places outside of Google and Facebook aren't going to probe you for data structures that you probably didn't learn in school like advanced graphs, but you'll certainly want to be able to know where a hash is more advantageous over a linked list or an array. You will certainly want to know the difference between a standard tree and a binary search tree.
+
+I've been shopping around for data structures books for a few months. It seems that there is almost a unanimous consensus for Introduction to Algorithms (also known as the CLRS after the authors) to be the de facto standard. To this point, I find myself to be in agreement with those that gave it such high praise.
 
 ### Attitude is Everything
 
-The attitude you approach your position 
+The attitude with which you approach your position 
