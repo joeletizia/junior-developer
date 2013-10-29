@@ -16,4 +16,17 @@ I've been shopping around for data structures books for a few months. It seems t
 
 ### Attitude is Everything
 
-The attitude with which you approach your position 
+The attitude with which you approach your position is (at some companies) more important than the state of your current skill set. If you are difficult to work with, have an abrasive personality, or are in some other way incapable of being a part of a team, your skill set can become inconsequential. 
+
+Don't be affraid of not being the best developer on your team. The people I work with code circles around me on a daily basis. However, you can still be a contributing member of a team as long as you have a good attitude and are continually progressing. 
+
+On my current team, we use a somewhat unique approach to interviewing. It's strikingly simple… but fact remains that is unique none-the-less. We simply invite candidates that pass a phone screen to complete a simple pair programming exercise with one of our developers using test-driven-development. There are no tricks, no riddles, and no counting grains of sand. This gives us two data points:
+
+1. Whether or not they have enough of a theoretical Computer Science background.
+2. Whether or not they personable enough to work in a team to accomplish a common task. 
+
+We tend to keep it to an hour in order to save the candidate time because the next round is a full day of pairing with 2-3 of our developers. The interview is tagging along with your partner and tackling real features out of our backlog. This process is as much a technical assessment as it is a deep dive into the candidates attitude. Having an inquisitive personality, a calm yet up beat demeanor, and even a sense of humor are all things that employers are looking for in their junior hires. If this sounds a bit like blind dating, you're not too far off. This doesn't mean that you shouldn't be assertive, however. One thing that may help people stand out is having a set of opinions on best practices that you've developed over the course of your experience. Being able to express these opinions in a way that is both assertive and well mannered is a great combination. By doing that, you've shown that you not only have good skills, but are a great teammate.
+
+### Be Social
+
+Along with the above segment on having a good attitude, our field now has a required social aspect to it. Keeping up with the latest trends is imperative to maintaining sharp skills and keeping yourself up to date. If you are in a city/area with a very active tech scene, there are bound to be a few interesting meetups in your area. Be sure to drop in occasionaly. If you make yourself known, one of those people might just be able to land you your next job. 
